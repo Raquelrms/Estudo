@@ -1,2 +1,2 @@
-# Estudo
- Primeiro repositório versionado
+# Estudo!
+ Primeiro repositório versionado.
